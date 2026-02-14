@@ -9,3 +9,4 @@ So this is what CI does and it' generally done by a few thing like Jenkins, GitH
 After the CI build is finished it generally gives us a (build artifact)
 
 ======================================= CI WORKING FLOW ===================================
+hello world
